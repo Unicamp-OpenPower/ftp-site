@@ -48,6 +48,10 @@ body {
   border-bottom: 1px solid #e5e5e5;
 }
 
+.jumbotron h2 {
+  font-weight: bold
+}
+
 /* Quick Access content */
 .links {
   margin: 40px 0;
